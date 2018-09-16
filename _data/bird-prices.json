@@ -1,0 +1,22 @@
+[
+    {
+        "title": "<span>TURKEY</span> - Fan Mount",
+        "price": "Starts at $75",
+        "description": "Show off your turkey's fan, beard, and spurs",
+    },
+    {
+        "title": "<span>TURKEY</span> - Breast Mount",
+        "price": "Starts at $250",
+        "description": "A full size turkey mount can take a lot of space. a breast mount though is a good middle option between a basic fan mount and fill life size turkey mount",
+    },
+    {
+        "title": "<span>TURKEY</span> - Life Size",
+        "price": "Starts at $400",
+        "description": "Show off your full size turkey in a variety of avialble poses",
+    },
+    {
+        "title": "<span>Migratory Birds</span>",
+        "price": "Coming Soon",
+        "description": "Currently I am not taking in any federal migratory birds such as ducks, but will be in the near future",
+    }
+]

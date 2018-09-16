@@ -1,0 +1,31 @@
+{% include header.html %}
+<div class="container page-title center-align">
+    <h2 class="center-align">
+        {{ page.title }}
+    </h2>
+    <span class="title-bg">{{ page.title-bg }}</span>
+</div>
+<!-- Divider Starts -->
+<div class="divider center-align">
+    <span class="outer-line"></span>
+    <img class="deer-line-logo" src="assets/images/deer-only.svg" width="70">
+    <span class="outer-line"></span>
+</div>
+<!-- Divider Ends -->
+<div class="container">
+    <div class="row">
+        <div class="content col s12 m12 l12 xl12">
+            <!-- Article Starts -->
+            <article>
+
+                <div class="blog-excerpt second-font">
+                    {{ page.content }}
+                </div>
+                <!-- Excerpt Ends -->
+            </article>
+            <!-- Article Ends -->
+        </div>
+
+    </div>
+</div>
+{% include footer.html %}

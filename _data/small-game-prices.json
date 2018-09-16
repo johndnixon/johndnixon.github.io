@@ -1,0 +1,27 @@
+[
+    {
+        "title": "<span>Squirrel</span>",
+        "price": "Starts at $125",
+        "description": "",
+    },
+    {
+        "title": "<span>Racoon</span>",
+        "price": "Starts at $325",
+        "description": "",
+    },
+    {
+        "title": "<span>Fox</span>",
+        "price": "Starts at $375",
+        "description": "",
+    },
+    {
+        "title": "<span>Bobcat</span>",
+        "price": "Starts at $400",
+        "description": "",
+    },
+    {
+        "title": "<span>Coyote</span>",
+        "price": "Starts at $450",
+        "description": "",
+    }
+]
