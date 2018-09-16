@@ -18,7 +18,7 @@ email: johndnixonwebdev@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   John Nixon is a taxidermist based in Pilot Mountain, NC. John has experience in deer mounts, small game mounts, fish mounts and bird mounts.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://johnnixonstaxidermy.com/" # the base hostname & protocol for your site, e.g. http://johnnixonstaxidermy.com/
+url: "https://johnnixonstaxidermy.com/" # the base hostname & protocol for your site, e.g. http://johnnixonstaxidermy.com/
 
 # Build settings
 markdown: kramdown
