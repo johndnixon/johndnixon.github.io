@@ -6,6 +6,13 @@
     {{#if page.description}}
     <meta name="description" content="{{ page.description }}"/>
     {{/if}}
+
+    <meta property="og:url"                content="{{ site.url }}" />
+    <meta property="og:type"               content="article" />
+    <meta property="og:title"              content="{{ page.title }} | John Nixon's Taxidermy" />
+    <meta property="og:description"        content="{{ page.description }}" />
+    <meta property="og:image"              content="{{ site.url }}/assets/images/site-fb-image.png" />
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-85898107-2"></script>
     <script>
