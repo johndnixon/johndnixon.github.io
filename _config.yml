@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: John Nixon's Taxidermy
-email: johndnixonwebdev@gmail.com
+email: johnnixonstaxidermy@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   John Nixon is a taxidermist based in Pilot Mountain, NC. John has experience in deer mounts, small game mounts, fish mounts and bird mounts.
 baseurl: "" # the subpath of your site, e.g. /blog
